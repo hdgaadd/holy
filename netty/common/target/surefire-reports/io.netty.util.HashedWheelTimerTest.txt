@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.netty.util.HashedWheelTimerTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.274 s - in io.netty.util.HashedWheelTimerTest
