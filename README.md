@@ -15,3 +15,9 @@
   - 同时maven的mirror设置为默认，启动vpn连接网络
 
   - 其中如果pom文件有因为IDEA而多添加了设置JDK版本为8的`<plugin>`，需要**删除掉**
+
+
+
+# maxwell
+
+- 
