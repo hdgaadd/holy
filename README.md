@@ -21,3 +21,22 @@
 # maxwell
 
 - 
+
+
+
+
+
+# incubator-eventmesh
+
+## knowledge
+
+- **what**
+
+  > https://zhuanlan.zhihu.com/p/360955843
+
+  - 事件网格，用于分离应用程序和后端的中间层
+  - 分布式服务有以**服务**驱动，而eventmesh是以**事件**驱动
+
+- 
+
+### 
